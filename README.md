@@ -1,12 +1,7 @@
 # Pablo Gabriel Dominguez
 > Systems Engineer | Quantitative Architecture & Distributed Systems
 
-### 🚀 Sistemas en Producción (2026-11-04 18:33 ART)
-### 📦 [FitTracker](https://github.com/pablodominguez0226-ai/FitTracker)
-- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
-- **Stack principal**: JavaScript
-- **Última actividad**: 2026-11-04
-
+### 🚀 Sistemas en Producción (2026-11-04 18:35 ART)
 ### 📦 [pablodominguez0226-ai](https://github.com/pablodominguez0226-ai/pablodominguez0226-ai)
 - **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
 - **Stack principal**: Python / Shell
@@ -15,6 +10,11 @@
 ### 📦 [data-engineering-lab-server-02](https://github.com/pablodominguez0226-ai/data-engineering-lab-server-02)
 - **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
 - **Stack principal**: Python
+- **Última actividad**: 2026-11-04
+
+### 📦 [FitTracker](https://github.com/pablodominguez0226-ai/FitTracker)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: JavaScript
 - **Última actividad**: 2026-11-04
 
 ### 📦 [LifeFlow](https://github.com/pablodominguez0226-ai/LifeFlow)
