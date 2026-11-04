@@ -1,16 +1,46 @@
 # Pablo Gabriel Dominguez
-> Systems Engineer | Quant & Distributed Systems Architecture | Python • Linux • High-Frequency ETL
+> Systems Engineer | Quantitative Architecture & Distributed Systems
 
-### 🚀 Avances Técnicos en Producción (Auto-actualizado por Bots)
-*Última sincronización: 2026-11-04 14:55 ART*
+### 🚀 Sistemas en Producción (2026-11-04 14:56 ART)
+### 📦 [pablodominguez0226-ai](https://github.com/pablodominguez0226-ai/pablodominguez0226-ai)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: Python / Shell
+- **Última actividad**: 2026-11-04
 
-- ⚡ Pipeline de streaming y trading algorítmico activo en Linux.
-- ⚡ Orquestador autónomo de telemetría y triaging de correo en ejecución continua.
+### 📦 [Aulaconomy](https://github.com/pablodominguez0226-ai/Aulaconomy)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: TypeScript
+- **Última actividad**: 2026-11-02
 
-### 🛠 Core Stack Verificado
-- **Languages**: Python (Asyncio, Aiohttp, Pandas, NumPy), JavaScript, TypeScript, SQL
-- **Infraestructura**: Ubuntu Linux x86_64, Systemd Daemons, Docker, SQLite
-- **Enfoque**: High-Frequency ETL, SMC Microstructure, Automated ATS Match
+### 📦 [FitTracker](https://github.com/pablodominguez0226-ai/FitTracker)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: JavaScript
+- **Última actividad**: 2026-11-02
+
+### 📦 [data-engineering-lab-server-02](https://github.com/pablodominguez0226-ai/data-engineering-lab-server-02)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: Python
+- **Última actividad**: 2026-11-02
+
+### 📦 [pablodominguez0226-ai.github.io](https://github.com/pablodominguez0226-ai/pablodominguez0226-ai.github.io)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: JavaScript
+- **Última actividad**: 2026-10-12
+
+### 📦 [casino-core](https://github.com/pablodominguez0226-ai/casino-core)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: Python
+- **Última actividad**: 2026-10-12
+
+### 📦 [konta-app](https://github.com/pablodominguez0226-ai/konta-app)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: HTML
+- **Última actividad**: 2026-10-12
+
+### 📦 [LifeFlow](https://github.com/pablodominguez0226-ai/LifeFlow)
+- **Descripción**: Sistema distribuido de procesamiento y arquitectura técnica.
+- **Stack principal**: TypeScript
+- **Última actividad**: 2026-10-02
 
 ---
-*Repositorio sincronizado automáticamente por Career-Hunter Agent.*
+*Perfil auto-mantenido por el agente de carrera en Linux.*
